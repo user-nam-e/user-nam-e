@@ -22,5 +22,3 @@
    height="50" alt=""></a>
  <a href="mailto:arseny123395@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/888/888853.png" width="50" 
    height="50" alt=""></a>
-   
-   
