@@ -20,18 +20,18 @@ Lack of theoretical knowledge, practical skills, working experience
 
 <h3 align="start">Technologies: </h3>
 <h4>Intermediate</h4>
-<a href=""><img src="https://img.icons8.com/color/2x/c-sharp-logo.png" width="50" 
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.icons8.com/color/2x/c-sharp-logo.png" width="50" 
    height="50" alt=""></a>
-<a href=""><img src="https://img.icons8.com/color/2x/xamarin.png" width="50" 
+<a href="https://en.wikipedia.org/wiki/Xamarin"><img src="https://img.icons8.com/color/2x/xamarin.png" width="50" 
    height="50" alt=""></a>
-<a href=""><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png" width="50" 
+<a href="https://en.wikipedia.org/wiki/.NET"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png" width="50" 
    height="50" alt=""></a>
  
 
 <h4>Novice</h4>
-<a href=""><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/2x/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" width="50" 
+<a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/2x/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" width="50" 
    height="50" alt=""></a>
-<a href=""><img src="https://img.icons8.com/external-soft-fill-juicy-fish/2x/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" width="50" 
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/2x/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" width="50" 
    height="50" alt=""></a>
 
 
