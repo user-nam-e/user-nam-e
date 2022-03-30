@@ -21,10 +21,14 @@ Lack of theoretical knowledge, practical skills, working experience
 3) [![codewars](https://www.codewars.com/users/arseniy__/badges/small)](https://www.codewars.com/users/arseniy__)
 
 <h3 align="start">Technologies: </h3>
-<a href=""><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png" width="50" 
+<h4>Intermediate</h4>
+<a href=""><img src="https://img.icons8.com/color/2x/c-sharp-logo.png" width="50" 
    height="50" alt=""></a>
 <a href=""><img src="https://img.icons8.com/color/2x/xamarin.png" width="50" 
-   height="50" alt=""></a> - Intermediate
+   height="50" alt=""></a>
+<a href=""><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png" width="50" 
+   height="50" alt=""></a>
+ 
 
 
 
