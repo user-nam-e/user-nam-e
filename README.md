@@ -30,6 +30,14 @@ Lack of theoretical knowledge, practical skills, working experience
    height="50" alt=""></a>
  
 
+<h4>Novice</h4>
+<a href=""><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/2x/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" width="50" 
+   height="50" alt=""></a>
+<a href=""><img src="https://img.icons8.com/color/2x/xamarin.png" width="50" 
+   height="50" alt=""></a>
+<a href=""><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png" width="50" 
+   height="50" alt=""></a>
+
 
 
 <h3 align="start">Connect with me:</h3>
