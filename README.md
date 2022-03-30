@@ -13,7 +13,7 @@
 2) The <a href="https://training.by/#!/Training/2665?lang=en" target="_blank">.NET Development Belarus</a> course from EPAM. Completed 2 stages of 2. 69 tasks 
 3) [![codewars](https://www.codewars.com/users/arseniy__/badges/small)](https://www.codewars.com/users/arseniy__)
 
-
+<h1 align="center">Connect with me:</h1> 
 <!---
 user-nam-e/user-nam-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
