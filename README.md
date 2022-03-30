@@ -14,7 +14,7 @@
 3) [![codewars](https://www.codewars.com/users/arseniy__/badges/small)](https://www.codewars.com/users/arseniy__)
 
 <h3 align="start">Connect with me:</h3>
-<p><a href="sample.html"><img src="https://simpleicons.org/icons/telegram.svg" width="50" 
+<p><a href="sample.html"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" width="50" 
    height="50" alt=""></a></p>
    
 user-nam-e/user-nam-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
