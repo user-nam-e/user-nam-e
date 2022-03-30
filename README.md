@@ -3,10 +3,9 @@
 
 [![codewars](https://www.codewars.com/users/arseniy__/badges/small)](https://www.codewars.com/users/arseniy__)
 
-- 👀 I’m interested in c#, .Net, xamarin
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning c#, .Net, xamarin
+- 📫 How to reach me <a href="mailto:arseny123395@gmail.com">arseny123395@gmail.com</a>
+- 🌍 I speak Russian (native), English (a1)
 
 <!---
 user-nam-e/user-nam-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
