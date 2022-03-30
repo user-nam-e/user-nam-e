@@ -24,7 +24,7 @@ Lack of theoretical knowledge, practical skills, working experience
 <h4>Intermediate</h4>
 <a href=""><img src="https://img.icons8.com/color/2x/c-sharp-logo.png" width="50" 
    height="50" alt=""></a>
-<a href=""><img src="![image](https://user-images.githubusercontent.com/85613704/160919883-06300c58-f5c2-4f74-a92a-3316a08c9cb4.png)" width="50" 
+<a href=""><img src="https://img.icons8.com/color/2x/xamarin.png" width="50" 
    height="50" alt=""></a>
 <a href=""><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png" width="50" 
    height="50" alt=""></a>
