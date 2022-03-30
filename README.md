@@ -11,6 +11,7 @@
 📘 Courses: 
 1) <a href="https://www.epam.com/" target="_blank">EPAM</a> ONLINE SUMMER BOOTCAMP 2021
 2) The <a href="https://training.by/#!/Training/2665?lang=en" target="_blank">.NET Development Belarus</a> course from EPAM. Completed 2 stages of 2. 69 tasks 
+</h1>
 [![codewars](https://www.codewars.com/users/arseniy__/badges/small)](https://www.codewars.com/users/arseniy__)
 <!---
 user-nam-e/user-nam-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
