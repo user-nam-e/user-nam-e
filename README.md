@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning .Net, c#, xamarin, wpf, windows-forms
+- 🌱 I’m currently learning .Net, c#, xamarin, wpf
 - 📫 How to reach me <a href="mailto:arseny123395@gmail.com">arseny123395@gmail.com</a>
 - 🌍 I speak Russian (native), English (a1)
 
