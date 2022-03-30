@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/user-nam-e" target="_blank">Arseniy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![codewars](https://www.codewars.com/users/arseniy__/badges/small)](https://www.codewars.com/users/arseniy__)
+[![codewars](https://www.codewars.com/users/laarge__/badges/small)](https://www.codewars.com/users/arseniy__)
 
 - 👋 Hi, I’m @user-nam-e
 - 👀 I’m interested in ...
