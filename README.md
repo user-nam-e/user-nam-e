@@ -16,7 +16,5 @@
 <h3 align="start">Connect with me:</h3>
 <a href="https://t.me/im_arseniy"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" width="50" 
    height="50" alt=""></a>
-   
-<--user-nam-e/user-nam-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <a href="https://t.me/im_arseniy"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" width="50" 
+   height="50" alt=""></a>
