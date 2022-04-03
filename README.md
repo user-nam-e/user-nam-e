@@ -27,8 +27,6 @@
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/2x/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" width="50" 
    height="50" alt=""></a>
 
-
-</h1>
 <h3 align="start">Connect with me:</h3>
 <a href="https://t.me/im_arseniy"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" width="50" 
    height="50" alt=""></a>
@@ -38,5 +36,6 @@
    height="50" alt=""></a>
  <a href="mailto:arseny123395@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/888/888853.png" width="50" 
    height="50" alt=""></a>
-
+   
+</h1>
 ![](https://komarev.com/ghpvc/?username=user-nam-e)
