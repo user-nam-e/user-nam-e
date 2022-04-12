@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of the <a href="https://brest.kbp.by/" target="_blank">"College of Business and Law"</a> (2018-2022)</h3>
 
-- 🌱 I’m currently learning .Net, c#, xamarin, wpf
+- 🌱 I’m currently learning .Net, c#, xamarin
 - 📫 How to reach me <a href="mailto:arseny123395@gmail.com">arseny123395@gmail.com</a>
 - 🌍 I speak Russian (native), English (a1)
 
