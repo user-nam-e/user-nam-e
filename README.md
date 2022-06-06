@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/user-nam-e" target="_blank">Arseniy</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/user-nam-e" target="_blank">Arseni</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of the <a href="https://brest.kbp.by/" target="_blank">"College of Business and Law"</a> (2018-2022)</h3>
 
