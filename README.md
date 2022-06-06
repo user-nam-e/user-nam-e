@@ -32,7 +32,7 @@
    height="50" alt=""></a>
  <a href="https://discordapp.com/users/\_(^_^)_/#3447/"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" width="50" 
    height="50" alt=""></a>
- <a href="mailto:arseny123395@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/888/888853.png" width="50" 
+ <a href="mailto:arseni.baranowski@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/888/888853.png" width="50" 
    height="50" alt=""></a>
    
 <h1> </h1>
