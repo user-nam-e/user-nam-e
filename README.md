@@ -9,7 +9,7 @@
 📘 Courses: 
 1) <a href="https://www.epam.com/" target="_blank">EPAM</a> ONLINE SUMMER BOOTCAMP 2021
 2) The <a href="https://training.epam.com/#!/Training/2665?lang=en" target="_blank">.NET Development Belarus</a> course from EPAM. Completed 2 stages of 2. 69 tasks 
-3) [![codewars](https://www.codewars.com/users/arseniy__/badges/small)](https://www.codewars.com/users/arseniy__)
+3) [![codewars](https://www.codewars.com/users/arseni_baranowski/badges/small)](https://www.codewars.com/users/arseni_baranowski)
 
 <h3 align="start">Technologies: </h3>
 <h4>Intermediate</h4>
