@@ -30,8 +30,6 @@
 <h3 align="start">Connect with me:</h3>
 <a href="https://t.me/wertybezq"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" width="50" 
    height="50" alt=""></a>
- <a href="https://discordapp.com/users/\_(^_^)_/#3447/"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" width="50" 
-   height="50" alt=""></a>
  <a href="mailto:arseni.baranowski@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/888/888853.png" width="50" 
    height="50" alt=""></a>
    
